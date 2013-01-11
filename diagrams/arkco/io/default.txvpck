@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="Vuobnmjfitkeh7a-utthu5">
+        <property name="$defaultDiagram" value="true"/>
+        <property name="$metaclass" value="Class Diagram"/>
+        <property name="$defaultDiagram" value=""/>
+        <property name="@__options" value="toolbar.group.#DEFAULT.expanded = true&#xA;toolbar.buttonRunCount = 2&#xA;option.layout.recursive = false&#xA;toolbar.group.pattern.expanded = true&#xA;toolbar.group.ocl.expanded = true&#xA;toolbar.group.note.expanded = true&#xA;scrollX = 0&#xA;scrollY = 0&#xA;zoomFactor = 1.0&#xA;"/>
+        <reference referencedUin="design:view:::Vuobnmjfitkeh7a1ebodi">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="10,290,86,138"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.io.MatchInputStream">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="10,10,200,235"/>
+            <reference referencedUin="jdt:l_ast:src:arkco.io.MatchInputStream:event">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="210,56"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="290,56"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.io.IMatchedEvent">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="290,10,100,93"/>
+        </reference>
+    </view>
+</nodeSet>

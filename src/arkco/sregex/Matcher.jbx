@@ -1,0 +1,16 @@
+[PropertyInfo]
+closed,boolean,false,false, , ,true,<default>
+defaultTimeout,long,false,false, , ,true,<default>
+inputStream,java.io.InputStream,false,false, , ,false,<default>
+isEOF,boolean,false,false, , ,false,<default>
+matched,arkco.sregex.Submatched[][],false,false, , ,true,<default>
+matchedResult,arkco.sregex.Submatched[][],false,false, , ,false,<default>
+multiLine,boolean,false,false, , ,false,<default>
+outputStream,java.io.OutputStream,false,false, , ,false,<default>
+patternList,java.util.ArrayList,false,false, , ,false,<default>
+throwTimeoutException,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

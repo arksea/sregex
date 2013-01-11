@@ -1,0 +1,18 @@
+[PropertyInfo]
+chars,byte[],false,false, , ,true,<default>
+charsLength,int,false,false, , ,true,<default>
+codes,arkco.sregex.Code[],false,false, , ,false,<default>
+currentGroup,arkco.sregex.GroupBegin,false,false, , ,true,<default>
+groupCount,int,false,false, , ,false,<default>
+isEOF,boolean,false,false, , ,false,<default>
+level,int,false,false, , ,false,<default>
+matchedResult,arkco.sregex.Submatched[][],false,false, , ,true,<default>
+multiLine,boolean,false,false, , ,false,<default>
+reg,arkco.sregex.Register,false,false, , ,false,<default>
+searchStopFail,boolean,false,false, , ,false,<default>
+searchStopStack,java.util.Stack,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="Vuobnmjfitkeh3eys2axo">
+        <property name="$defaultDiagram" value="true"/>
+        <property name="$metaclass" value="Class Diagram"/>
+        <property name="$defaultDiagram" value=""/>
+        <property name="@__options" value="toolbar.group.#DEFAULT.expanded = true&#xA;toolbar.buttonRunCount = 2&#xA;option.layout.recursive = false&#xA;toolbar.group.pattern.expanded = true&#xA;toolbar.group.ocl.expanded = true&#xA;toolbar.group.note.expanded = true&#xA;scrollX = 0&#xA;scrollY = 0&#xA;zoomFactor = 1.0&#xA;"/>
+        <reference referencedUin="design:view:::Vuobnmjfitkeh3t5vyhd7">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="10,1050,86,138"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.PatternCompiler">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="129,1050,153,315"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Submatched">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1663,750,125,251"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.TimeoutException">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1773,610,116,109"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.OR">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="10,269,88,77"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.OR:Code">
+                <property name="@location_set_by_user" value="true"/>
+                <property name="sourceAnchor" value="54,269"/>
+                <property name="bendpoints" value="54,259"/>
+                <property name="targetAnchor" value="480,199"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.PatternCache">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1181,10,149,173"/>
+            <reference referencedUin="jdt:l_ast:src:arkco.sregex.PatternCache:cache">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="1330,64"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1410,64"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.MatchChar">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="832,782,80,77"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.MatchChar:MatchCode">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="872,782"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="811,346"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Token">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1773,470,95,93"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.MatchCharSet">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="715,782,97,93"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.MatchCharSet:MatchCode">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="790,782"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="790,346"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.CharType">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1663,470,90,205"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.LineTail">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="568,269,80,77"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.LineTail:Code">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="608,269"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="525,199"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Codes">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="289,10,89,93"/>
+            <reference referencedUin="jdt:l_ast:src:arkco.sregex.Codes:codes">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="378,56"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="458,56"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.LineHead">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="668,269,80,77"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.LineHead:Code">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="708,269"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="548,199"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.IntArray">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="10,1230,99,283"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.TestPattern">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="118,269,153,141"/>
+            <reference referencedUin="jdt:l_ast:src:arkco.sregex.TestPattern:pattern">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="271,339"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="359,339"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.PatternCompiler_E">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1037,259,122,93"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.PatternCompiler_E:RegexException">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="1098,259"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1098,199"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Register">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="379,782,141,221"/>
+            <reference referencedUin="jdt:l_ast:src:arkco.sregex.Register:groups">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="379,836"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="299,836"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Code">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="458,10,136,189"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Repeat">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="934,269,83,125"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.CacheEntry">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1410,10,80,109"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.TestMatcher">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1510,10,103,861"/>
+            <reference referencedUin="jdt:l_ast:src:arkco.sregex.TestMatcher:matcher">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="1613,215"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1701,215"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.GroupEnd">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="932,782,87,109"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.GroupEnd:MatchCode">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="975,782"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="832,346"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Group">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="200,782,99,109"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Matcher">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1693,10,200,443"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Metacode">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1808,750,80,93"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.RegexException">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="1036,10,125,189"/>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.MatchCode">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="768,269,86,77"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.MatchCode:Code">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="811,269"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="571,199"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:arkco.sregex.MatchCode:repeat">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="854,307"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="934,307"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.Pattern">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="351,269,197,443"/>
+            <reference referencedUin="jdt:l_ast:src:arkco.sregex.Pattern:codes">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="503,269"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="503,199"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:arkco.sregex.Pattern:reg">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="449,712"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="449,782"/>
+            </reference>
+        </reference>
+        <reference referencedUin="jdt:e_class:src:arkco.sregex.GroupBegin">
+            <property name="@location_set_by_user" value="true"/>
+            <property name="bounds" value="569,782,126,141"/>
+            <reference referencedUin="jdt:l_gnt:src:arkco.sregex.GroupBegin:MatchCode">
+                <property name="@location_set_by_user" value="false"/>
+                <property name="sourceAnchor" value="632,782"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="779,346"/>
+            </reference>
+        </reference>
+    </view>
+</nodeSet>
